@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykkey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykkey&layout=compact&theme=tokyonight&hide_border=true)
+![Michael's GitHub stats](https://github-readme-stats-chi-two-71.vercel.app/api?username=Mykkey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats-chi-two-71.vercel.app/api/top-langs/?username=Mykkey&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mykkey&theme=tokyonight&hide_border=true)
 
