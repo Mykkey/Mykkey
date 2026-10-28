@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Michael
+# Hi, I'm Michael
 
 **4th Year BSc Computer Science & Information Technology @ University of Galway**
 
