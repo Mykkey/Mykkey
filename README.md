@@ -40,6 +40,7 @@
 | [Landed](https://github.com/Mykkey/Landed) | Web app project | TypeScript |
 | [TradingBotV1](https://github.com/Mykkey/TradingBotV1) | Early algorithmic trading bot | Python |
 | [Wearable-Tech-Stress-Project](https://github.com/Mykkey/Wearable-Tech-Stress-Project) | Stress analysis using wearable data | Jupyter |
+| [Games-Dev-Project](https://github.com/Mykkey/GamesDevProject) | Built a full 2D bullet-hell style game for 3rd year Games Dev module | C# |
 | [Matrix-Visualiser](https://github.com/Mykkey/Matrix-Visualiser) | See how a 2x2 matrix transforms space | Java |
 | [Graph-Visualiser](https://github.com/Mykkey/Graph-Visualiser) | 2D graph visualisation tool | Java |
 | [FallingSandV3](https://github.com/Mykkey/FallingSandV3) | Falling sand simulator built to learn Swing | Java |
