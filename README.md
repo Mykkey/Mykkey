@@ -16,9 +16,8 @@
 - Final-year CS & IT student at the University of Galway
 - Built games in Unity (C#) during internships and for my 3rd year Games Dev module
 - Experimenting with algorithmic trading bots in Python
-- Final year project and wearable-tech stress research using Python and Jupyter
-- Love visualising maths and algorithms (matrix transforms, graphs, falling sand)
-- Ask me about: game dev, Python, algorithms, data & ML
+- Final year project and wearable-tech stress machine learning research projects using Python and Jupyter
+- Enjoy visualising maths and algorithms (matrix transforms, graphs, falling sand)
 
 ## Tech Stack
 
