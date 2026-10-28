@@ -57,7 +57,7 @@
 
 ## Let's Connect
 
-Always happy to chat about projects, games, or interesting problems. Reach out via my [portfolio](https://mykkey.github.io/michael-egan-portfolio/) or [email](mailto:mikey.j.egan@gmail.com).
+Always happy to chat about projects, games, or interesting problems. Reach out via my [email](mailto:mikey.j.egan@gmail.com).
 
 <div align="center">
 
