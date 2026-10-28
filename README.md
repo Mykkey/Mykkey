@@ -49,11 +49,12 @@
 
 <div align="center">
 
-![Michael's GitHub stats](https://github-readme-stats-chi-two-71.vercel.app/api?username=Mykkey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<p><img src="https://github-readme-stats-chi-two-71.vercel.app/api?username=Mykkey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Michael's GitHub stats" width="450" /></p>
 
-![Top languages](https://github-readme-stats-chi-two-71.vercel.app/api/top-langs/?username=Mykkey&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab)
+<p><img src="https://github-readme-stats-chi-two-71.vercel.app/api/top-langs/?username=Mykkey&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab" alt="Top languages" width="450" /></p>
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mykkey&theme=tokyonight&hide_border=true)
+<p><img src="https://streak-stats.demolab.com/?user=Mykkey&theme=tokyonight&hide_border=true" alt="Streak stats" width="450" /></p>
+
 </div>
 
 ## Let's Connect
