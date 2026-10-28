@@ -36,7 +36,6 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [Dungeon-Fighter](https://github.com/Mykkey/Dungeon-Fighter) | Unity game built with a teammate during internships | C# |
 | [AlgorithmAtlas](https://github.com/Mykkey/AlgorithmAtlas) | Interactive look at how algorithms work | JavaScript |
 | [Landed](https://github.com/Mykkey/Landed) | Web app project | TypeScript |
 | [TradingBotV1](https://github.com/Mykkey/TradingBotV1) | Early algorithmic trading bot | Python |
